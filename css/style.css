@@ -96,8 +96,9 @@ p {
 ---------------------------------*/
 
 #header_wrapper {
-    background: #ffffff;
+    background: #162983;
     padding: 20px 0px;
+    border-bottom: 5px solid #28aae2;
 }
 
 .header_box {
@@ -130,7 +131,7 @@ p {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #222;
+    color: #fff;
 }
 
 .navStyle {
@@ -179,12 +180,12 @@ p {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #33877d;
+    color: #28aae2;
     background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #33877d;
+    color: #28aae2;
     background-color: transparent;
 }
 
@@ -211,7 +212,7 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #33877d;
+    background: #4c619d;
     position: relative;
 }
 
@@ -1684,7 +1685,7 @@ font-size: 30px;
 padding: 60px 0 50px;
 } 
 .navbar-inverse .navbar-toggle .icon-bar{
-background:#33877d;
+background:#28aae2;
 }
 .navbar-inverse .navbar-toggle {
 border-color: transparent;
